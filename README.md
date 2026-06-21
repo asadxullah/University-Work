@@ -1,35 +1,46 @@
-# Programming Fundamentals Repository
+# University Work
 
-This repository contains all **Programming Fundamentals (PF)** assignments and projects completed as part of my coursework.  
-It is intended as a central place to track progress, practice C++ programming concepts, and showcase completed work.
+A collection of coursework, assignments, and projects completed during my BS Computer Science degree at the University of Central Punjab (UCP). This repository serves as a running archive of my academic work, organized by course.
 
-## Contents
+## Repository Structure
 
-- `Assignments/` – Completed PF assignments, including exercises and small programs  
-- `Projects/` – Future PF projects assigned by the university (will be added over time)
+```
+University-Work/
+└── PF/                          Programming Fundamentals
+    ├── Assignments/             Weekly exercises and tasks (C++)
+    └── StudentManagementSystem/ Lab project — menu-driven system using 2D arrays and file handling
+```
 
-## Purpose
+Each course folder contains its own README with more detail on that course's contents. As I progress through the degree, new course folders will be added here.
 
-The goal of this repository is to:
+## Courses Covered So Far
 
-- Organize all PF-related coursework in one place  
-- Track learning and coding progress over time  
-- Practice core C++ concepts such as arrays, loops, functions, pointers, and file handling  
-- Serve as a reference for future projects and learning
+| Course | Focus | Status |
+|---|---|---|
+| Programming Fundamentals (PF) | C++ fundamentals — arrays, loops, functions, pointers, file handling | Complete |
 
 ## How to Use
 
-1. Navigate to the `Assignments` or `Projects` folder.  
-2. Open the desired `.cpp` file in any C++ compiler (GCC / Visual Studio / CodeBlocks).  
+1. Open the relevant course folder.
+2. Open any `.cpp` file in a C++ compiler or IDE (GCC, Visual Studio, Code::Blocks).
 3. Compile and run to test the program.
+
+## Purpose
+
+This repository exists to:
+
+- Keep all university coursework organized in one place, by course
+- Track progress and growth across semesters
+- Serve as a personal reference for revisiting earlier concepts
+- Build a visible record of practical work alongside academic transcripts
 
 ## Future Plans
 
-- Add all future PF projects assigned by the university  
-- Gradually refactor assignments to include object-oriented programming concepts  
-- Document each project with a folder-level README for clarity  
+- Add folders for subsequent courses (Object-Oriented Programming, Data Structures, etc.) as they're completed
+- Continue maintaining course-level READMEs for clarity
+- Refactor older work where useful, without erasing the original learning progression
 
 ## Author
 
-**Muhammad Asad Ullah**  
-Computer Science Student
+**Muhammad Asad Ullah**
+BS Computer Science, University of Central Punjab

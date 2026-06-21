@@ -17,7 +17,7 @@ Each course folder contains its own README with more detail on that course's con
 
 | Course | Focus | Status |
 |---|---|---|
-| Programming Fundamentals (PF) | C++ fundamentals — arrays, loops, functions, pointers, file handling | Complete |
+| Programming Fundamentals (PF) | C++ fundamentals — arrays, loops, functions, pointers, file handling, OOPs| Complete |
 
 ## How to Use
 
@@ -36,7 +36,7 @@ This repository exists to:
 
 ## Future Plans
 
-- Add folders for subsequent courses (Object-Oriented Programming, Data Structures, etc.) as they're completed
+- Add folders for subsequent courses (Data Structures, etc.) as they're completed
 - Continue maintaining course-level READMEs for clarity
 - Refactor older work where useful, without erasing the original learning progression
 

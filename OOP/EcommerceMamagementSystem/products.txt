@@ -1,0 +1,8 @@
+1,Laptop,120000,10,General
+2,Shirt,3000,20,General
+3,Milk,250,50,General
+1,Laptop,120000,10,General
+2,Shirt,3000,20,General
+1,Laptop,120000,10,General
+2,Shirt,3000,20,General
+3,Milk,250,50,General
